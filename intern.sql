@@ -1,0 +1,1 @@
+SELECT * FROM eega.lead_actor;
